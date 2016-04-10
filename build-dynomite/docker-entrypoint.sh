@@ -82,4 +82,4 @@ mv /src/dynomitedb-package /src/dynomitedb-dynomite
 tar -czf dynomitedb-dynomite_ubuntu-14.04.4-x64.tar.gz -C /src dynomitedb-dynomite/
 
 # Cleanup
-rm -rf /src/dynomitedb-dynomite/
+#rm -rf /src/dynomitedb-dynomite/
