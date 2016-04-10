@@ -1,0 +1,26 @@
+# IDEs
+.idea
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Packages
+*.tar
+*.gz
+*.tar.gz
+*.tgz
+*.deb
+*.rpm
+
+# Binaries and builds
+
+# Temp files
+*.swp
+*.*~
+*.sql~
+
+# Mac files
+.DS_Store
+lib-cov
