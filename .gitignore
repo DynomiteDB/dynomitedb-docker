@@ -2,24 +2,25 @@
 .idea
 
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
-*.o
 *.a
+*.o
 *.so
 
 # Packages
-*.tar
+*.deb
 *.gz
+*.rpm
+*.tar
 *.tar.gz
 *.tgz
-*.deb
-*.rpm
 
 # Binaries and builds
 
 # Temp files
-*.swp
 *.*~
+*.bak
 *.sql~
+*.swp
 
 # Mac files
 .DS_Store
