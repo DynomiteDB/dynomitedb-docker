@@ -1,12 +1,11 @@
-# Docker containers to build and run DynomiteDB
+# DynomiteDB Docker containers
 
 A suite of Docker containers used to build and run the various DynomiteDB components in production.
 
-The build process of compiling sofware is separate from the containers used to run each component.
+The containers in this repo are split into two categories:
 
-All build containers are prefixed with `build-`.
-
-Production containers are named after the component, for example the Redis container is tagged `DynomiteDB/redis`.
+- Build containers: Prefixed with `build-`
+- Production containers: Named after a component, such as `DynomiteDB/redis`
 
 # Use of layers
 
